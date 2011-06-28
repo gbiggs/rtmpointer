@@ -14,7 +14,8 @@ a single address space and the composites are executing in series.
 Parallel execution will lead to race conditions. Use with components
 executing in separate memory spaces will lead to memory access errors.
 
-This software was developed on an aeroplane over the Pacific Ocean. This
+This software is developed at the National Institute of Advanced
+Industrial Science and Technology. Approval number H23PRO-????. This
 software is licensed under the Lesser General Public License. See
 COPYING.LESSER.
 

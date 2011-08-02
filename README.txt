@@ -15,7 +15,7 @@ Parallel execution will lead to race conditions. Use with components
 executing in separate memory spaces will lead to memory access errors.
 
 This software is developed at the National Institute of Advanced
-Industrial Science and Technology. Approval number H23PRO-????. This
+Industrial Science and Technology. Approval number H23PRO-1302. This
 software is licensed under the Lesser General Public License. See
 COPYING.LESSER.
 
